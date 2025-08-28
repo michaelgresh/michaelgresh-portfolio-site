@@ -20,7 +20,7 @@ A modern, elegant portfolio site built with React, Vite, and Tailwind CSS. Showc
 ## Getting Started
 1. Clone the repo:
   ```powershell
-  git clone https://github.com/yourusername/michaelgresh-portfolio.git
+  git clone https://github.com/yourusername/michaelgresh-portfolio-site.git
   ```
 2. Install dependencies:
   ```powershell
